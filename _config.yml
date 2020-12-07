@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Esy OCaml
+tagline:          'Umbrella project for all esy-ocaml projects'
+description:      'Umbrella project for all esy-ocaml projects'
+url:              http://esy-ocaml.github.io
+baseurl:          /
+
+author:
+  name:           'Manas Jayanth'
+  url:            https://twitter.com/ManasJayanth
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/esy-ocaml
