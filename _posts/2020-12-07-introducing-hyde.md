@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Esy OCaml
 ---
-
-# Esy OCaml
 
 Esy OCaml is a collection of tools and libraries that help consume
 tools and libraries from the OCaml ecosystem, with as little
