@@ -26,7 +26,7 @@ need patches so that
 This project is an attempt to address these problems. Currently, it
 contains
 
-1. [Esy Opam Overrides]((https://github.com/esy-ocaml/esy-opam-override))
+1. [Esy Opam Overrides](https://github.com/esy-ocaml/esy-opam-override)
 2. [The OCaml compiler](https://github.com/esy-ocaml/ocaml)
 3. [The Multicore compiler](https://github.com/esy-ocaml/ocaml-multicore)
 4. [Esy Solve CUDF](https://github.com/esy-ocaml/esy-solve-cudf)
