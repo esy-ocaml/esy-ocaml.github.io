@@ -33,8 +33,7 @@ contains
 5. [pkg-config](https://github.com/esy-ocaml/yarn-pkg-config)
 6. [libffi](https://github.com/esy-ocaml/libffi)
 7. [Bos](https://github.com/esy-ocaml/bos)
-8. [Angstrom](https://github.com/esy-ocaml/angstrom)
-9. [Flow parser](https://github.com/esy-ocaml/flow-parser)
+8. [Flow parser](https://github.com/esy-ocaml/flow-parser)
 
 ## Contributing
 
